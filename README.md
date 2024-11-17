@@ -24,13 +24,15 @@ However we decided to put here in the readme the output of the part 4 so if this
 
 ## **Output of part 4 :**
 
+#### *Displaying the regions that present the several restaurant*
+
 <img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
-
+#### *Plot Top-K Restaurants: Use the custom score from Step 3 to select the top-k restaurants for display.*
 
 <img width="560" alt="Screenshot 2024-11-17 alle 20 03 33" src="https://github.com/user-attachments/assets/f1ec48f6-26f5-4560-9c4c-78a0ed140921">
 
-
+####  *Highlight top-K restaurants with larger markers and a unique icon*
 
 <img width="560" alt="Screenshot 2024-11-17 alle 20 04 12" src="https://github.com/user-attachments/assets/9b85c804-908b-4fb8-b286-ae2bf0f5826b">
 
