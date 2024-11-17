@@ -28,7 +28,7 @@ However we decided to put here in the readme the output of the part 4 so if this
 
 <img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
-#### *display of restaurant based on different price range.*
+#### *Display of restaurant based on different price range.*
 
 <img width="560" alt="Screenshot 2024-11-17 alle 20 03 33" src="https://github.com/user-attachments/assets/f1ec48f6-26f5-4560-9c4c-78a0ed140921">
 
