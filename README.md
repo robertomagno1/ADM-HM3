@@ -1,36 +1,16 @@
 # ADM-HM3
 
 # Algorithmic Methods for Data Mining - Homework 3
-  2 | 
-  3 | This is a Github repository created to submit the third Homework of the **Algorithmic Methods for Data Mining (ADM)** course for the MSc. in Data Science at the Sapienza University of Rome.
-  4 | 
-  5 | --- 
-  6 | ## What's inside this repository?
-  7 | 
-  8 | 1. `README.md`: A markdown file that explains the content of the repository.
-  9 | 
- 10 | 2. `main.ipynb`: A [Jupyter Notebook](https://nbviewer.org/github/msancor/ADM-HW3/blob/main/main.ipynb) file containing all the relevant exercises and reports belonging to the homework questions, the *Command Line Question*, and the *Algorithmic Question*.
- 11 | 
- 12 | 3. ``modules/``: A folder including 4 Python modules used to solve the exercises in `main.ipynb`. The files included are:
- 13 | 
- 14 |     - `__init__.py`: A *init* file that allows us to import the modules into our Jupyter Notebook.
- 15 | 
- 16 |     - `web_scraper.py`: A Python file including a `WebScraper` class designed to perform web scraping on the multiple pages of the [MSc. Degrees](https://www.findamasters.com/masters-degrees/msc-degrees/) website.
- 17 | 
- 18 |     - `html_parser.py`: A Python file including a `HTMLParser` class designed to parse the HTML files obtained by the web scraping process and extract relevant information.
- 19 | 
- 20 |     - `data_preprocesser.py`: A Python file including a `DataPreprocesser` class designed to pre-process text data in order to obtain information and build a Search Engine.
- 21 | 
- 22 |     - `search_engine.py`: A Python file including three classes: `SearchEngine`, `TopKSearchEngine`, and `WeightedTopKSearchEngine` designed to implement different versions of a Search Engine that queries information from our MSc. courses dataset.
- 23 | 
- 24 |     - `map_plotter.py`: A Python file including a `MapPlotter` class designed to plot a map including the results of our Search Engines.
- 25 | 
- 26 | 4. `CommandLine.sh`: A bash script including the code to solve the *Command Line Question*.
- 27 | 
- 28 | 5. ``.gitignore``: A predetermined `.gitignore` file that tells Git which files or folders to ignore in a Python project.
- 29 | 
- 30 | 6. `LICENSE`: A file containing an MIT permissive license.
- 31 | 
+
+ This is a Github repository created to submit the third Homework of the **Algorithmic Methods for Data Mining (ADM)** course for the MSc. in Data Science at the Sapienza University of Rome.
+
+
+## What's inside this repository?
+
+1. `README.md`: A markdown file that explains the content of the repository.
+
+2. `main.ipynb`: A [Jupyter Notebook](https://nbviewer.org/github/msancor/ADM-HW3/blob/main/main.ipynb) file containing all the relevant exercises and reports belonging to the homework questions, the *Command Line Question*, and the *Algorithmic Question*.
+
  32 | ## Datasets
  33 | 
  34 | The data used to work in this repository was obtained by performing web-scraping in the [MSc. Degrees](https://www.findamasters.com/masters-degrees/msc-degrees/) website via the `WebScraper` class contained in the `web_scraper.py` module. If you want to reproduce the data perform the following steps:
