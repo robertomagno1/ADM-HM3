@@ -19,9 +19,10 @@
 
 ## Plots
 
- Since Plotly Express maps are not compiled well through NBViewer or Github, we recommend downloading the Notebook for a better visualization. If this isn't within your scope, we added a screenshot of the plot included in `main.ipynb`:
+Since Plotly Express maps are not compiled well through NBViewer or Github, we recommend downloading the Notebook for a better visualization. 
+However we decided to put here in the readme the output of the part 4 so if this isn't within your scope, we added a screenshot of the plot included in `main.ipynb`:
 
-Output 4.3 :
+## **Output of part 4 :*
 
 <img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
