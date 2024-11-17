@@ -21,6 +21,8 @@
 
  Since Plotly Express maps are not compiled well through NBViewer or Github, we recommend downloading the Notebook for a better visualization. If this isn't within your scope, we added a screenshot of the plot included in `main.ipynb`:
 
+output 4.3 
+
 <img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
  However, this plot is made to be interactive so it is still recommended to visualize it in your own computer.
