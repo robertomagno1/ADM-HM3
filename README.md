@@ -13,8 +13,7 @@
 
  ## Datasets
 
- The data used to work in this repository was obtained by performing web-scraping in the [Michelin Guide web page ](https://guide.michelin.com/en/it/restaurants) website via the `WebScraper` class contained in the 
- web_scraper funcion . If you want to reproduce the data perform the following steps:
+ The data used to work in this repository was obtained by performing web-scraping in the [Michelin Guide web page ](https://guide.michelin.com/en/it/restaurants) website via the `WebScraper` class contained in the web_scraper funcion . If you want to reproduce the data perform the following steps:
 <img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
 
@@ -30,9 +29,14 @@
 
 ---
 
- **Author:** Miguel Angel Sanchez Cortes
+| **Authors**          | **Email**                                      |
+|-----------------------|-----------------------------------------------|
+| Roberto Magno Mazzotta | magnomazzotta.2200470@studenti.uniroma1.it   |
+| Andrea Scalise | scalise.1960784@studenti.uniroma1.it |
+| Andrea Di Vincenzo | divincenzo.1887012@studenti.uniroma1.it |
+| Myriam Obialo  | obialo.1942326@studenti.uniroma1.it  |
 
- **Email:** sanchezcortes.2049495@studenti.uniroma1.it
+ 
 
  *MSc. in Data Science, Sapienza University of Rome*
 
