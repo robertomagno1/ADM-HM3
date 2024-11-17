@@ -16,14 +16,3 @@
  The data used to work in this repository was obtained by performing web-scraping in the [Michelin Guide web page ](https://guide.michelin.com/en/it/restaurants) website via the `WebScraper` class contained in the 
  web_scraper funcion . If you want to reproduce the data perform the following steps:
 
- **1.** Create the directories where you will save the obtained `html` and `tsv` files after you perform web-scraping. Specifically, run in your terminal the following commands:
-
- ```bash
- mkdir data
- mkdir data/htmls
- mkdir data/tsvs
-```
-
- Make sure you create these folders in the same directory you've saved the `main.ipynb` file on.
-
- **2.** Open the `main.ipynb` file and run the cells contained in the **Data Collection** section and you will obtain all the pertinent data files.
