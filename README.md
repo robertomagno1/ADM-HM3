@@ -13,7 +13,7 @@
 
  ## Datasets
 
- The data used to work in this repository was obtained by performing web-scraping in the [MSc. Degrees](https://www.findamasters.com/masters-degrees/msc-degrees/) website via the `WebScraper` class contained in the `web_scraper.py` module. If you want to reproduce the data perform the following steps:
+ The data used to work in this repository was obtained by performing web-scraping in the [Michelin Guide web page ](https://guide.michelin.com/en/it/restaurants) website via the `WebScraper` class contained in the `web_scraper.py` module. If you want to reproduce the data perform the following steps:
 
  **1.** Create the directories where you will save the obtained `html` and `tsv` files after you perform web-scraping. Specifically, run in your terminal the following commands:
 
