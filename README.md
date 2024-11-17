@@ -32,7 +32,7 @@ However we decided to put here in the readme the output of the part 4 so if this
 
 <img width="560" alt="Screenshot 2024-11-17 alle 20 03 33" src="https://github.com/user-attachments/assets/f1ec48f6-26f5-4560-9c4c-78a0ed140921">
 
-####  *Highlight top-K restaurants with larger markers and a unique icon --- k = 5*
+####  *Highlight top-K restaurants with larger markers and a unique icon with k = 5*
 
 <img width="560" alt="Screenshot 2024-11-17 alle 20 04 12" src="https://github.com/user-attachments/assets/9b85c804-908b-4fb8-b286-ae2bf0f5826b">
 
