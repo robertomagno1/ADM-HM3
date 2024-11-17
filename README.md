@@ -14,16 +14,14 @@
  ## Datasets
 
  The data used to work in this repository was obtained by performing web-scraping in the [Michelin Guide web page ](https://guide.michelin.com/en/it/restaurants) website via the `WebScraper` class contained in the web_scraper funcion . If you want to reproduce the data perform the following steps:
-<img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
+
 
 
 ## Plots
 
  Since Plotly Express maps are not compiled well through NBViewer or Github, we recommend downloading the Notebook for a better visualization. If this isn't within your scope, we added a screenshot of the plot included in `main.ipynb`:
 
- <p align="center">
-    <img src="![Uploading Screenshot 2024-11-17 alle 19.45.56.png…]()"/>
- </p>
+<img width="560" alt="Screenshot 2024-11-17 alle 19 45 56" src="https://github.com/user-attachments/assets/ad1a8655-8c44-425e-8da2-61dfd958dd1f">
 
  However, this plot is made to be interactive so it is still recommended to visualize it in your own computer.
 
