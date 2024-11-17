@@ -9,7 +9,7 @@
 
 1. `README.md`: A markdown file that explains the content of the repository.
 
-2. `main.ipynb`: A [Jupyter Notebook](https://github.com/robertomagno1/ADM-HM3/upload/main) file containing all the relevant exercises and reports belonging to the homework questions, the *Command Line Question*, and the *Algorithmic Question*.
+2. `main.ipynb`: A [Jupyter Notebook](https://github.com/robertomagno1/ADM-HM3/blob/main/main.ipynb) file containing all the relevant exercises and reports belonging to the homework questions, the *Command Line Question*, and the *Algorithmic Question*.
 
  ## Datasets
 
